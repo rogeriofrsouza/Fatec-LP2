@@ -1,0 +1,12 @@
+D:\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe.config
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Form1.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Properties.Resources.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe.config
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.pdb
