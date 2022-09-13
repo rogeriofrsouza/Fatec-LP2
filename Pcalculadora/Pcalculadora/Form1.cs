@@ -23,7 +23,8 @@ namespace Pcalculadora
             if (double.TryParse(txtNumero1.Text, out double num1) && double.TryParse(txtNumero2.Text, out double num2))
                 return true;
             
-            MessageBox.Show("Erro: insira um número válido");
+            MessageBox.Show("Insira um número válido");
+            this.BtnLimpar_Click(this, new EventArgs());
 
             return false;
         }
@@ -41,6 +42,7 @@ namespace Pcalculadora
                 case '*': res = num1 * num2; break;
                 default: res = num1 / num2; break;
             }
+
             this.txtResultado.Text = res.ToString();
         }
 
@@ -65,7 +67,10 @@ namespace Pcalculadora
         private void BtnDividir_Click(object sender, EventArgs e)
         {
             if (double.Parse(txtNumero2.Text) == 0)
-                MessageBox.Show("Erro: insira um número divisor maior que zero (0)");
+            {
+                MessageBox.Show("Insira um número divisor diferente de zero (0)");
+                this.BtnLimpar_Click(this, new EventArgs());
+            }
             else
                 if (this.ValidarNumeros())
                     this.Calcular('/');
@@ -75,6 +80,7 @@ namespace Pcalculadora
         {
             this.txtNumero1.Text = "";
             this.txtNumero2.Text = "";
+            this.txtResultado.Text = "";
 
             this.txtNumero1.Focus();
         }
