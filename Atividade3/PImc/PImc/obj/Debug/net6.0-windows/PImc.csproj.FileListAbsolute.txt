@@ -1,0 +1,17 @@
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\bin\Debug\net6.0-windows\PImc.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\bin\Debug\net6.0-windows\PImc.deps.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\bin\Debug\net6.0-windows\PImc.runtimeconfig.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\bin\Debug\net6.0-windows\PImc.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\bin\Debug\net6.0-windows\PImc.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.Form1.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.AssemblyInfoInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.AssemblyInfo.cs
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\refint\PImc.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\PImc.genruntimeconfig.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PImc\PImc\obj\Debug\net6.0-windows\ref\PImc.dll

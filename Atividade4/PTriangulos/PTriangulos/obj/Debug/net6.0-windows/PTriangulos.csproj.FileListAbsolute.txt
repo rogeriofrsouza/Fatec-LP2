@@ -1,0 +1,17 @@
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\bin\Debug\net6.0-windows\PTriangulos.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\bin\Debug\net6.0-windows\PTriangulos.deps.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\bin\Debug\net6.0-windows\PTriangulos.runtimeconfig.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\bin\Debug\net6.0-windows\PTriangulos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\bin\Debug\net6.0-windows\PTriangulos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.Form1.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.AssemblyInfoInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.AssemblyInfo.cs
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\refint\PTriangulos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\PTriangulos.genruntimeconfig.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTriangulos\PTriangulos\obj\Debug\net6.0-windows\ref\PTriangulos.dll
