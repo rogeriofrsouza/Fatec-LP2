@@ -1,0 +1,11 @@
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\bin\Debug\PClasses.exe.config
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.csprojResolveAssemblyReference.cache
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.Cache
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\bin\Debug\PClasses.exe
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\bin\Debug\PClasses.pdb
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.exe
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.pdb
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.frmPrincipal.resources
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+D:\2- Linguagem de programação II\Projetos\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
