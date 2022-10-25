@@ -1,0 +1,20 @@
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.exe.config
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.exe
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.pdb
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csprojResolveAssemblyReference.cache
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.Cache
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.exe
+D:\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.exe.config
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\bin\Debug\PSalario.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PSalario\PSalario\obj\Debug\PSalario.pdb
