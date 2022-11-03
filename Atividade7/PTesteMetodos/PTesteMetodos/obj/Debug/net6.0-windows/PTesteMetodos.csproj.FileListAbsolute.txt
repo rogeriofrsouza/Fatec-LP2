@@ -1,0 +1,63 @@
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.deps.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.runtimeconfig.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmPrincipal.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio2.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio3.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio4.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio5.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfoInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfo.cs
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\refint\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.genruntimeconfig.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\ref\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.deps.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.runtimeconfig.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmPrincipal.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio2.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio3.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio4.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio5.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfoInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfo.cs
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\refint\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.genruntimeconfig.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\11- PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\ref\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.deps.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.runtimeconfig.json
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmPrincipal.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio2.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio3.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio4.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio5.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfoInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfo.cs
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\refint\PTesteMetodos.dll
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.genruntimeconfig.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\ref\PTesteMetodos.dll
