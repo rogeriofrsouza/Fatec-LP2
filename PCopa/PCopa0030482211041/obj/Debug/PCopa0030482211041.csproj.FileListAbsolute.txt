@@ -1,0 +1,24 @@
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\bin\Debug\PCopa0030482211041.exe.config
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\bin\Debug\PCopa0030482211041.exe
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\bin\Debug\PCopa0030482211041.pdb
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.csprojResolveAssemblyReference.cache
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmPrincipal.resources
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.Properties.Resources.resources
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.csproj.GenerateResource.Cache
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.exe
+c:\users\0030482211041\documents\visual studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.pdb
+C:\Users\0030482211041\Documents\Visual Studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmJogo.resources
+C:\Users\0030482211041\Documents\Visual Studio 2013\Projects\PCopa0030482211041\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmSobre.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\bin\Debug\PCopa0030482211041.exe.config
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\bin\Debug\PCopa0030482211041.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\bin\Debug\PCopa0030482211041.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmPrincipal.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmJogo.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.frmSobre.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.Properties.Resources.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\Projeto final\PCopa\PCopa0030482211041\obj\Debug\PCopa0030482211041.pdb

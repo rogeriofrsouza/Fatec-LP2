@@ -11,3 +11,15 @@ D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\12- PMatrizes\PMat
 D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\12- PMatrizes\PMatrizes\obj\Debug\PMatrizes.exe
 D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\12- PMatrizes\PMatrizes\obj\Debug\PMatrizes.pdb
 D:\Fatec\Semestre 4\2- Linguagem de programação II\Projetos\12- PMatrizes\PMatrizes\obj\Debug\PMatrizes.Form2.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\bin\Debug\PMatrizes.exe.config
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\bin\Debug\PMatrizes.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\bin\Debug\PMatrizes.pdb
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.AssemblyReference.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.Form1.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.Form2.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.Properties.Resources.resources
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.GenerateResource.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.csproj.CoreCompileInputs.cache
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.exe
+D:\Fatec\Semestre 4\2- Linguagem de programação II\LP2\Atividade9\PMatrizes\PMatrizes\obj\Debug\PMatrizes.pdb
